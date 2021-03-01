@@ -11,7 +11,7 @@
   "author": "Ahmed Wageh",
   "license": "ISC",
   "dependencies": {
-    "three": "^0.111.0",
+    "three": "^0.125.0",
     "three-shader-fxaa": "^5.1.1"
   },
   "devDependencies": {
